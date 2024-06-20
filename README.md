@@ -10,11 +10,8 @@ This project is a browser extension designed to identify and classify dark patte
 - [Installation](#installation)
 - [Downloading the Fine-Tuned BERT Model](#downloading-the-fine-tuned-bert-model)
 - [Usage](#usage)
-- [Model Training](#model-training)
 - [Extension Functionality](#extension-functionality)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
