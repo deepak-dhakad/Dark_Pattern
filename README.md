@@ -46,10 +46,6 @@ To install the project, follow these steps:
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
     ```
 
-3. Install the dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ### Frontend (Browser Extension)
 
