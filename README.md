@@ -36,7 +36,7 @@ To install the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/dark-pattern-recognition.git
+    git clone https://github.com/deepak-dhakad/Dark_Pattern/.git
     cd dark-pattern-recognition/backend
     ```
 
@@ -84,20 +84,7 @@ To download the fine-tuned BERT model:
 
 3. Place the downloaded model files inside the `backend/api` directory.
 
-    The structure should look like this:
-    ```plaintext
-    backend/
-    ├── api/
-    │   ├── bert_model/     # The fine-tuned BERT model directory
-    │   │   ├── config.json
-    │   │   ├── pytorch_model.bin
-    │   │   ├── tokenizer_config.json
-    │   │   └── vocab.txt
-    ├── dataset/
-    ├── train.py
-    ├── requirements.txt
-    └── app.py
-    ```
+
 
 ## Usage
 
