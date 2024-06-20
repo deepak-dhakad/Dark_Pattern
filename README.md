@@ -49,26 +49,12 @@ To install the project, follow these steps:
 
 ### Frontend (Browser Extension)
 
-1. Navigate to the frontend directory:
-    ```bash
-    cd ../frontend
-    ```
 
-2. Install the dependencies:
-    ```bash
-    npm install
-    ```
-
-3. Build the extension:
-    ```bash
-    npm run build
-    ```
-
-4. Load the extension in your browser (e.g., Chrome, Firefox):
+1. Load the extension in your browser (e.g., Chrome, Firefox):
     - Open the browser and go to the extensions page.
     - Enable "Developer mode" (Chrome) or "Debug mode" (Firefox).
     - Click "Load unpacked" (Chrome) or "Load Temporary Add-on" (Firefox).
-    - Select the `build` directory from the `frontend` folder.
+    - Select the `app` directory.
 
 ## Downloading the Fine-Tuned BERT Model
 
